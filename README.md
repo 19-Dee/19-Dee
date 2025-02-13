@@ -1,8 +1,7 @@
 <h1 align="center"> 👋 Hi, I'm Dishen </h1>
-<h2 align="center"> ☁️ Cloud Engineer  </h2>
+<h3 align="center"> ☁️ I'm a **Cloud Engineer** passionate about **Cloud Security**. On a journey to conquer the Cloud </h2>
 
-🔥 About Me
-
+**🔥 About Me**
 - 🎓 MSc Data Science | BSc Mathematics & Statistics
 - ☁️ AWS Certified (CCP | SAA | Security Specialty [In Progress])
 - 🔧 Terraform | Kubernetes | GitHub Actions
@@ -10,31 +9,34 @@
 
 🔧 Tech Stack
 
-Cloud: AWS ☁️ | Terraform 🌍 | Kubernetes ☸️
+**Cloud**: AWS ☁️ | Terraform 🌍 | Kubernetes ☸️
 
-Security: AWS Security 🔐  | IAM
+**Security**: AWS Security 🔐  | IAM
 
-DevOps: GitHub Actions 🤖 | CI/CD 🚀
+**DevOps**: GitHub Actions 🤖 | CI/CD 🚀
 
-Programming: Python 🐍 | Bash 🖥️ | SQL 📊
+**Programming**: Python 🐍 | Bash 🖥️ | SQL 📊 | Linux 🤖
 
-📌 Current Focus
+**📌 What am I working on?**
 
-🏗 Terraform Associate Certification | Building Cloud Infra
+- 🧠 AI & Big Data in Cloud Security | End of year MSc Project
 
-📚 AWS Security Specialty Prep | Deep Dive into AWS Security
+- 🏗 Terraform Associate Certification | Building Cloud Infra
 
-🧠 AI & Big Data in Cloud Security | Researching for MSc Project
+- 📚 AWS Security Specialty Prep | Deep Dive into AWS Security
 
-🏆 Certifications
 
-✅ AWS Certified Cloud Practitioner
+**🏆 Certifications**
 
-✅ AWS Solutions Architect Associate
+- ✅ AWS Certified Cloud Practitioner
 
-🔄 AWS Security Specialty (In Progress)
+- ✅ AWS Solutions Architect Associate
 
-🔄 Terraform Associate (In Progress)
+- 🔄 Terraform Associate (In Progress)
+
+- 🔄 Kubernetes Certified Administrator (In Progress)
+
+- 🔄 AWS Security Specialty (In Progress)
 
 
 <!--
