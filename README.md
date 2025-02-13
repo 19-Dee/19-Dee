@@ -1,21 +1,17 @@
 <h1 align="center"> 👋 Hi, I'm Dishen </h1>
 <h3 align="center"> ☁️ I'm a Cloud Engineer passionate about Cloud Security. On a journey to conquer the Cloud! </h2>
 
-**🔥 About Me**
+**🔥 About Me:**
 - 🎓 MSc Data Science | BSc Mathematics & Statistics
 - ☁️ AWS Certified (CCP | SAA | Security Specialty [In Progress])
 - 🔧 Terraform | Kubernetes | GitHub Actions
 - 🔐 Cloud Security & AI Enthusiast
 
-**🔧 Tech Stack**
+**# 💻 Tech Stack:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-- **Cloud**: AWS ☁️ | Terraform 🌍 | Kubernetes ☸️
-
-- **Security**: AWS Security 🔐  | IAM
-
-- **DevOps**: GitHub Actions 🤖 | CI/CD 🚀
-
-- **Programming**: Python 🐍 | Bash 🖥️ | SQL 📊 | Linux 🤖
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cloudsecdee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/19dishen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@19dishen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cloudsecdee@gmail.com) 
 
 **📌 What am I working on?**
 
@@ -38,6 +34,9 @@
 
 - 🔄 AWS Security Specialty (In Progress)
 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **19-Dee/19-Dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
