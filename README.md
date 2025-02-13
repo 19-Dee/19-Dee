@@ -9,13 +9,13 @@
 
 **🔧 Tech Stack**
 
-**Cloud**: AWS ☁️ | Terraform 🌍 | Kubernetes ☸️
+- **Cloud**: AWS ☁️ | Terraform 🌍 | Kubernetes ☸️
 
-**Security**: AWS Security 🔐  | IAM
+- **Security**: AWS Security 🔐  | IAM
 
-**DevOps**: GitHub Actions 🤖 | CI/CD 🚀
+- **DevOps**: GitHub Actions 🤖 | CI/CD 🚀
 
-**Programming**: Python 🐍 | Bash 🖥️ | SQL 📊 | Linux 🤖
+- **Programming**: Python 🐍 | Bash 🖥️ | SQL 📊 | Linux 🤖
 
 **📌 What am I working on?**
 
