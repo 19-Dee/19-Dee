@@ -32,7 +32,9 @@
 
 - 🔄 Kubernetes Certified Administrator (KCA) (In Progress)
 
-- 🔄 AWS Security Specialty (In Progress)
+- 🔄 GitHub Actions (In Progress)
+
+- 🔄 AWS Certified Security Specialty (AWS SCS) (In Progress)
 
 
 ## 🌐 Socials:
