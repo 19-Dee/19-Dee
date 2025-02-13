@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I'm Dishen </h1>
-<h3 align="center"> ☁️ I'm a Cloud Engineer passionate about Cloud Security. On a journey to conquer the Cloud! </h2>
+<h2 align="center"> ☁️ I'm a Cloud Engineer passionate about Cloud Security. On a journey to conquer the Cloud! </h2>
 
-**🔥 About Me:**
+## 🔥 About Me:
 - 🎓 MSc Data Science | BSc Mathematics & Statistics
 - ☁️ AWS Certified (CCP | SAA | Security Specialty [In Progress])
 - 🔧 Terraform | Kubernetes | GitHub Actions
