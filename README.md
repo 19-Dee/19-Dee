@@ -28,13 +28,13 @@
 
 **🏆 Certifications**
 
-- ✅ AWS Certified Cloud Practitioner
+- ✅ AWS Certified Cloud Practitioner (AWS CCP)
 
-- ✅ AWS Solutions Architect Associate
+- ✅ AWS Certified Solutions Architect Associate (AWS SAA)
 
-- 🔄 Terraform Associate (In Progress)
+- 🔄 Hashicorp Terraform Associate (In Progress)
 
-- 🔄 Kubernetes Certified Administrator (In Progress)
+- 🔄 Kubernetes Certified Administrator (KCA) (In Progress)
 
 - 🔄 AWS Security Specialty (In Progress)
 
