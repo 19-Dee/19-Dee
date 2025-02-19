@@ -1,5 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Dishen </h1>
-<h2 align="center"> ☁️ I'm a Cloud Engineer passionate about Cloud Security. On a journey to conquer the Cloud! </h2>
+<h2 align="center"> ☁️ I'm a Cloud Engineer passionate about Cloud Security </h2>
+<h3 align="center"> On a journey to conquer the Cloud! </h3>
 
 ### 🔥 About Me:
 - 🎓 MSc Data Science | BSc Mathematics & Statistics
