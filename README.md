@@ -16,7 +16,7 @@
 
 ### **📌 What am I working on?:**
 
-- 🧠 AI & Big Data in Cloud Security | End of year MSc Project
+- 🧠 AI-Driven Cloud Security | Detecting credential abuse and privilege escalation using Isolation Forest | End of year MSc Project
 
 - 🏗 Terraform Associate Certification | Building Cloud Infra
 
