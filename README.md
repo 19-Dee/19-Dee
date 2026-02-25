@@ -29,7 +29,7 @@
 
 - ✅ AWS Certified Solutions Architect Associate (AWS SAA)
 
-- ✅ Hashicorp Terraform Associate (In Progress)
+- ✅ Hashicorp Terraform Associate
 
 - 🔄 Kubernetes Certified Administrator (KCA) (In Progress)
 
