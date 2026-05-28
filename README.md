@@ -31,11 +31,7 @@
 
 - ✅ Hashicorp Terraform Associate
 
-- 🔄 Kubernetes Certified Administrator (KCA) (In Progress)
-
-- 🔄 GitHub Actions (In Progress)
-
-- 🔄 AWS Certified Security Specialty (AWS SCS) (In Progress)
+- ✅ Certified Kubernetes Administrator (CKA)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
