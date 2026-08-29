@@ -1,54 +1,77 @@
-<h1 align="center"> 👋 Hi, I'm Dishen </h1>
-<h2 align="center"> ☁️ I'm a Cloud Engineer passionate about Cloud Security </h2>
-<h3 align="center"> On a journey to conquer the Cloud! </h3>
+<h1 align="center">Hi, I'm Dishen 👋</h1>
 
-### 🔥 About Me:
-- 🎓 MSc Data Science | BSc Mathematics & Statistics
-- ☁️ AWS Certified (CCP | SAA | Security Specialty [In Progress])
-- 🔧 Terraform | Kubernetes | GitHub Actions
-- 🔐 Cloud Security & AI Enthusiast
+<h3 align="center">Cloud / DevOps Engineer | AWS | Terraform | Kubernetes | Platform Engineering</h3>
 
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+<p align="center">
+  Building secure, automated cloud infrastructure and deployment platforms.
+</p>
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cloudsecdee_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/19dishen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@19dishen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cloudsecdee@gmail.com) 
+---
 
-### **📌 What am I working on?:**
+### About Me
 
-- 🧠 AI-Driven Cloud Security | Detecting credential abuse and privilege escalation using Isolation Forest | End of year MSc Project
+- 🎓 MSc Data Science (Distinction) | BSc Mathematics & Statistics
+- ☁️ AWS Certified Solutions Architect – Associate
+- 🏗 HashiCorp Certified: Terraform Associate
+- ☸️ Certified Kubernetes Administrator (CKA)
+- 🔧 Hands-on with AWS, Terraform, Docker, Kubernetes, GitHub Actions and GitOps
+- 🔐 Interested in Cloud Security, Platform Engineering and DevSecOps
+- 📄 Published research on AI-driven detection of credential abuse and privilege escalation in cloud environments
+- 🚀 Currently building a secure multi-environment EKS GitOps platform
 
-- 🏗 Terraform Associate Certification | Building Cloud Infra
+---
 
-- 📚 AWS Security Specialty Prep | Deep Dive into AWS Security
+### Tech Stack
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **🏆 Certifications:**
+---
 
-- ✅ AWS Certified Cloud Practitioner (AWS CCP)
+### Featured Work
 
-- ✅ AWS Certified Solutions Architect Associate (AWS SAA)
+#### Secure Multi-Environment EKS GitOps Platform
+Building a reusable AWS Kubernetes platform with:
 
-- ✅ Hashicorp Terraform Associate
+- Terraform-provisioned AWS infrastructure
+- Amazon EKS
+- Docker and Amazon ECR
+- GitHub Actions CI
+- Trivy and Checkov security scanning
+- Helm-based application packaging
+- ArgoCD GitOps delivery
+- Separate development and production environments
+- Prometheus and Grafana observability
+
+#### E-Commerce DevOps Platform
+Worked with a microservices-based application to implement containerisation, Kubernetes deployment, CI/CD, GitOps and cloud infrastructure using Docker, Terraform, Amazon EKS, GitHub Actions and ArgoCD.
+
+---
+
+### Certifications
 
 - ✅ Certified Kubernetes Administrator (CKA)
+- ✅ AWS Certified Solutions Architect – Associate
+- ✅ HashiCorp Certified: Terraform Associate
+- ✅ AWS Certified Cloud Practitioner
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+### Research
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**AI-Driven DevSecOps for Anomaly Detection of Credential Abuse and Privilege Escalation in Cloud Environment**
 
-<!--
-**19-Dee/19-Dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Published as a Springer book chapter based on my MSc research into detecting suspicious AWS IAM activity using CloudTrail data, anomaly detection and IAM-specific security logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/19dishen)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@19dishen)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:cloudsecdee@gmail.com)
