@@ -17,8 +17,7 @@
 - 🔧 Hands-on with AWS, Terraform, Docker, Kubernetes, GitHub Actions and GitOps
 - 🔐 Interested in Cloud Security, Platform Engineering and DevSecOps
 - 📄 Published research on AI-driven detection of credential abuse and privilege escalation in cloud environments
-- 🚀 Currently building a secure multi-environment EKS GitOps platform
-
+  
 ---
 
 ### Tech Stack
