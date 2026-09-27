@@ -48,8 +48,22 @@ Building a reusable AWS Kubernetes platform with:
 - Separate development and production environments
 - Prometheus and Grafana observability
 
-#### E-Commerce DevOps Platform
-Worked with a microservices-based application to implement containerisation, Kubernetes deployment, CI/CD, GitOps and cloud infrastructure using Docker, Terraform, Amazon EKS, GitHub Actions and ArgoCD.
+#### AWS ECS Fargate Order Fulfillment Platform
+Building a production-style AWS microservices platform with:
+
+- Terraform-provisioned AWS infrastructure
+- Amazon ECS Fargate
+- Docker and Amazon ECR
+- Application Load Balancer routing
+- GitHub Actions CI/CD with OIDC
+- Trivy container image scanning
+- RDS PostgreSQL and ElastiCache Redis
+- SQS-driven asynchronous processing with DLQ
+- ECS Service Connect for internal service discovery
+- Secrets Manager for database credentials
+- CloudWatch logs, dashboards and alarms
+- Private subnets with VPC endpoints and no NAT Gateway
+- Path-scoped deployments with rollback support
 
 ---
 
