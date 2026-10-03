@@ -14,10 +14,10 @@
 - ☁️ AWS Certified Solutions Architect – Associate
 - 🏗 HashiCorp Certified: Terraform Associate
 - ☸️ Certified Kubernetes Administrator (CKA)
-- 🔧 Hands-on with AWS, Terraform, Docker, Kubernetes, GitHub Actions and GitOps
+- 🔧 Hands-on with AWS, Terraform, Docker, Kubernetes, GitHub Actions, ECS and GitOps
 - 🔐 Interested in Cloud Security, Platform Engineering and DevSecOps
 - 📄 Published research on AI-driven detection of credential abuse and privilege escalation in cloud environments
-  
+
 ---
 
 ### Tech Stack
@@ -34,35 +34,38 @@
 
 ### Featured Work
 
-#### Secure Multi-Environment EKS GitOps Platform
-Building a reusable AWS Kubernetes platform with:
+#### EKS GitOps Threat Composer
 
-- Terraform-provisioned AWS infrastructure
-- Amazon EKS
-- Docker and Amazon ECR
-- GitHub Actions CI
-- Trivy and Checkov security scanning
-- Helm-based application packaging
-- ArgoCD GitOps delivery
-- Separate development and production environments
+A production-style AWS Kubernetes platform for deploying the Threat Composer application using Terraform and GitOps.
+
+- Terraform-provisioned VPC and Amazon EKS infrastructure
+- EKS managed node group
+- Docker image stored in Amazon ECR
+- Kubernetes Deployment, Service and Ingress
+- AWS Load Balancer Controller using IRSA
+- Argo CD GitOps delivery
+- GitHub Actions CI/CD with AWS OIDC authentication
+- Route 53 DNS and HTTPS
 - Prometheus and Grafana observability
+- S3 remote Terraform state
+- Private worker nodes with application traffic exposed through an AWS load balancer
 
-#### AWS ECS Fargate Order Fulfillment Platform
-Building a production-style AWS microservices platform with:
+#### ECS Fargate Threat Composer
+
+A production-style deployment of the same Threat Composer application on AWS ECS Fargate, demonstrating an alternative container orchestration model.
 
 - Terraform-provisioned AWS infrastructure
 - Amazon ECS Fargate
 - Docker and Amazon ECR
-- Application Load Balancer routing
-- GitHub Actions CI/CD with OIDC
-- Trivy container image scanning
-- RDS PostgreSQL and ElastiCache Redis
-- SQS-driven asynchronous processing with DLQ
-- ECS Service Connect for internal service discovery
-- Secrets Manager for database credentials
-- CloudWatch logs, dashboards and alarms
-- Private subnets with VPC endpoints and no NAT Gateway
-- Path-scoped deployments with rollback support
+- Application Load Balancer
+- Private Fargate tasks with no public IP
+- Route 53 and ACM HTTPS
+- GitHub Actions CI/CD with AWS OIDC authentication
+- Automated Docker image build and ECS redeployment
+- CloudWatch application logging
+- S3 remote Terraform state
+- Public and private subnet architecture with NAT Gateway
+- IAM roles and least-privilege deployment permissions
 
 ---
 
@@ -87,4 +90,4 @@ Published as a Springer book chapter based on my MSc research into detecting sus
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/19dishen)
 [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@19dishen)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:cloudsecdee@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:dishen2026@gmail.com)
